@@ -28,8 +28,8 @@
 
   <distributionManagement>
     <repository>
-      <id>github</id>
-      <name>GitHub xy1m Apache Maven Packages</name>
+      <id>maven-sample</id>
+      <name>maven-sample</name>
       <url>https://maven.pkg.github.com/xy1m/maven-sample</url>
     </repository>
   </distributionManagement>
